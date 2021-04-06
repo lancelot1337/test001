@@ -1,0 +1,8 @@
+site_name: "test001"
+site_description: "this is the description for test001 app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
